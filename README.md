@@ -15,7 +15,7 @@ Below is the table from the first analysis, which includes math and reading scor
 ![Original Metrics](https://github.com/carolineshipley/School_District_Analysis/blob/main/Resources/school_original_metrics.PNG)
         
 Below is the table from the second analysis, where the math and reading scores for 9th graders at Thomas High School were removed. 
-![New Metrics]()
+![New Metrics](https://github.com/carolineshipley/School_District_Analysis/blob/main/Resources/school_new_metrics.PNG)
 The only differences are the averages and percent passing at Thomas High School. 
 
 Even with the removal of certain data, the overall results remained fairly the same.
